@@ -1,5 +1,5 @@
 
-# Install Msys2 with sfml (FULL)
+# Install MINGW using Msys2 with sfml (FULL)
 (preface: uninstall your currenct gcc compiler)
 
 ### 1. follow and install this link https://msys2.github.io/
